@@ -57,16 +57,6 @@ WeatherApp is a simple and intuitive Flutter application that provides real-time
    flutter run
    ```
 
-## API Setup
-
-To use the OpenWeatherMap API, you need to get an API key:
-
-1. Visit [OpenWeatherMap](https://openweathermap.org/api) and sign up for a free API key.
-2. Replace the placeholder API key in the app with your own in the `lib/services/api_service.dart` file:
-   ```dart
-   const String apiKey = 'YOUR_API_KEY';
-   ```
-
 ## Dependencies
 
 Make sure the following dependencies are added to your `pubspec.yaml`:
@@ -80,10 +70,6 @@ dependencies:
   weather:
   screen_util:
 ```
-
-## Screenshots
-
-(Add screenshots of your app here)
 
 ## Contribution
 
