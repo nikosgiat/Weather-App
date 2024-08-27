@@ -71,10 +71,6 @@ dependencies:
   screen_util:
 ```
 
-## Screenshots
-
-(Add screenshots of your app here)
-
 ## Contribution
 
 Feel free to fork the repository and submit a pull request. For significant changes, please open an issue first to discuss what you would like to change.
